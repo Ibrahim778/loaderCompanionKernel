@@ -1,4 +1,0 @@
-/usr/local/vitasdk/arm-vita-eabi/lib/libLoaderCompanionKernel_stub.a
-/usr/local/vitasdk/arm-vita-eabi/lib/libKernelLaunchFile_stub.a
-/usr/local/vitasdk/arm-vita-eabi/lib/libKernelLaunchFile_stub_weak.a
-/usr/local/vitasdk/arm-vita-eabi/lib/libLoaderCompanionKernel_stub_weak.a
