@@ -96,7 +96,7 @@ void StartUsbOffCard()
     ksceDebugPrintf("Unload result: %d", ret);
   }
 
-	path = "sdstor0:int-lp-ign-userext";
+	path = "sdstor0:xmc-lp-ign-userext";
 	if(em_iofix(pathCheck) == 0) 
 	{ 
 		path = NULL;
